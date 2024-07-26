@@ -1,0 +1,60 @@
+июл. 25, 2024 8:30:47 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: Начало операции сложения: Время: 2024-07-25 20:30:47
+июл. 25, 2024 8:30:47 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: Выполенения сложения действительной части комплексных чисел: (1 + 2)
+июл. 25, 2024 8:30:47 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: Выполенения сложения мнимой части комплексных чисел: (3 + 1)
+июл. 25, 2024 8:30:47 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: В результате получаем комплексное число: (3 + 4)
+июл. 25, 2024 8:30:47 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: Окончание операции сложения: Время: 2024-07-25 20:30:47
+июл. 25, 2024 8:30:47 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: Затраченное время: 22 ms
+июл. 26, 2024 1:31:53 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: Начало операции сложения: Время: 2024-07-26 13:31:53
+июл. 26, 2024 1:31:53 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: Выполенения сложения действительной части комплексных чисел: (6 + 8)
+июл. 26, 2024 1:31:53 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: Выполенения сложения мнимой части комплексных чисел: (3 + 2)
+июл. 26, 2024 1:31:53 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: В результате получаем комплексное число: (14 + 5)
+июл. 26, 2024 1:31:53 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: Окончание операции сложения: Время: 2024-07-26 13:31:53
+июл. 26, 2024 1:31:53 PM home_work.entity.ComplexNumbersCalculator addict
+INFO: Затраченное время: 24 ms
+июл. 26, 2024 1:33:14 PM home_work.entity.ComplexNumbersCalculator substract
+INFO: Начало операции вычитания: Время: 2024-07-26 13:33:14
+июл. 26, 2024 1:33:14 PM home_work.entity.ComplexNumbersCalculator substract
+INFO: Выполенения вычитания действительной части комплексных чисел: (3 - 5)
+июл. 26, 2024 1:33:14 PM home_work.entity.ComplexNumbersCalculator substract
+INFO: Выполенения вычитания мнимой части комплексных чисел: (2 - 4)
+июл. 26, 2024 1:33:14 PM home_work.entity.ComplexNumbersCalculator substract
+INFO: В результате получаем комплексное число: (-2 + -2)
+июл. 26, 2024 1:33:14 PM home_work.entity.ComplexNumbersCalculator substract
+INFO: Окончание операции вычитания: Время: 2024-07-26 13:33:14
+июл. 26, 2024 1:33:14 PM home_work.entity.ComplexNumbersCalculator substract
+INFO: Затраченное время: 5 ms
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Начало выполнения деления комплексных чисел, когда присутствуют обе мнимые части: 2024-07-26 13:36:10
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Создаем комплексно-сопряженное число
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Устанавливаем значение действительной части комплексно-сопряженного числа:  3
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Устанавливаем значение мнимой части комплексно-сопряженного числа:  -6
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Вычисляем делитель на основе комплексно-сопряженного числа Complex number is: (3.0 - 6.0i) и делителя Complex number is: (3.0 + 6.0i), на который будем делить комплексное число: Complex number is: (4.0 + 5.0i)
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Действительная часть состоит из 3^2, мнимая часть состоит из -6^2
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Делитель: 45
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Вычисляем действительную часть комплексного числа путем: ((4 * 3 + 5 * -6) * -1) / 45
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Вычисляем мнимую часть комплексного числа путем: ((4 * 2 + 6 * -6) * -1) / 45
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Окончание операции деления: Время: 2024-07-26 13:36:10
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: Затраченное время: 24 ms
+июл. 26, 2024 1:36:10 PM home_work.entity.ComplexNumbersCalculator divide
+INFO: В результате получаем комплексное число Complex number is: (0.9333333333333333 + 0.9333333333333333i)
